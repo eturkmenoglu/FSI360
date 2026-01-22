@@ -10,6 +10,11 @@ The package is intended for **demo and learning purposes** and showcases how rel
 
 ---
 
+## Screenshots
+
+![Retail Banking Customer 360](customer360.png)
+
+
 ## What This Package Demonstrates
 
 - Retail Banking **Customer 360** user experience  
